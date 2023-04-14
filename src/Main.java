@@ -1,6 +1,6 @@
 import com.student.record.StudentDetails;
 
-public class Main extends StudentDetails{
+public class Main extends StudentDetails {
     public static void main(String[] args) {
         Main childObj = new Main();
         System.out.println("Welcome to student portal!!!");
